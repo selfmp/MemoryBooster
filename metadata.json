@@ -1,0 +1,18 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "SelfMp"
+            }
+        ],
+        "Category": "Games",
+        "Description": "Quick memory & brain training mini-games",
+        "Icon": "games-config-custom",
+        "Id": "self.mp.memorybooster",
+        "Name": "Memory Booster",
+        "Version": "1.0",
+        "Website": ""
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
