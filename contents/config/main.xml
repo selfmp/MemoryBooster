@@ -5,17 +5,14 @@
       http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
     <kcfgfile/>
     <group name="General">
-        <entry name="totalMemorizedDigits" type="Int">
-            <default>0</default>
-        </entry>
-        <entry name="totalMistakes" type="Int">
-            <default>0</default>
-        </entry>
-        <entry name="correctRounds" type="Int">
-            <default>0</default>
-        </entry>
-        <entry name="correctSimons" type="Int">
-            <default>0</default>
-        </entry>
+        <entry name="correctSimons" type="Int"><default>0</default></entry>
+        <entry name="totalMemorizedDigits" type="Int"><default>0</default></entry>
+        <entry name="correctRounds" type="Int"><default>0</default></entry>
+        <entry name="correctReverse" type="Int"><default>0</default></entry>
+        <entry name="correctGrid" type="Int"><default>0</default></entry>
+        <entry name="correctStroop" type="Int"><default>0</default></entry>
+        <entry name="correctMath" type="Int"><default>0</default></entry>
+        <entry name="correctMissing" type="Int"><default>0</default></entry>
+        <entry name="correctNBack" type="Int"><default>0</default></entry>
     </group>
 </kcfg>
